@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RobotComp.ru\\Desktop\\Stepik\\lesson2\\lesson2.csproj": {}
+    "C:\\Users\\RobotComp.ru\\Desktop\\Stepik\\lesson2\\les2\\lesson2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RobotComp.ru\\Desktop\\Stepik\\lesson2\\lesson2.csproj": {
+    "C:\\Users\\RobotComp.ru\\Desktop\\Stepik\\lesson2\\les2\\lesson2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RobotComp.ru\\Desktop\\Stepik\\lesson2\\lesson2.csproj",
+        "projectUniqueName": "C:\\Users\\RobotComp.ru\\Desktop\\Stepik\\lesson2\\les2\\lesson2.csproj",
         "projectName": "lesson2",
-        "projectPath": "C:\\Users\\RobotComp.ru\\Desktop\\Stepik\\lesson2\\lesson2.csproj",
+        "projectPath": "C:\\Users\\RobotComp.ru\\Desktop\\Stepik\\lesson2\\les2\\lesson2.csproj",
         "packagesPath": "C:\\Users\\RobotComp.ru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RobotComp.ru\\Desktop\\Stepik\\lesson2\\obj\\",
+        "outputPath": "C:\\Users\\RobotComp.ru\\Desktop\\Stepik\\lesson2\\les2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RobotComp.ru\\AppData\\Roaming\\NuGet\\NuGet.Config"
