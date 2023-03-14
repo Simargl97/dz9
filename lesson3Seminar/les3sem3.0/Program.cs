@@ -1,7 +1,7 @@
 ﻿/* Напишите программу, которая принимает на вход координаты двух точек и 
 находит расстояние между ними в 2D пространстве.
 A (3,6); B (2,1) -> 5,09 
-A (7,-5); B (1,-1) -> 7,21
+A (7,-5); B (1,-1) -> 7,21 */
 
 /* Console.WriteLine("Введите x 1 точки");
 int x1 = Convert.ToInt32(Console.ReadLine());
@@ -22,7 +22,7 @@ double DistancePount(int x1, int y1, int x2, int y2)
     double result2 = (y2 - y1)*(y2 - y1);
     double result = Math.Sqrt(result1 + result2);
     return result;
-} */
+}  */
 
 //√((x2 - x1)² + (y2 - y1)²)
 
@@ -32,15 +32,15 @@ double DistancePount(int x1, int y1, int x2, int y2)
 /*  Напишите программу, которая принимает на вход число (N) 
 и выдаёт таблицу квадратов чисел от 1 до N.
 5 -> 1, 4, 9, 16, 25.
-2 -> 1,4 */
-/* Console.WriteLine("Введите число");
+2 -> 1,4 */ 
+/*  Console.WriteLine("Введите число");
 int n = Convert.ToInt32(Console.ReadLine());
 
 
 for (int i = 1; i <= n; i++)
 {
     Console.Write($"{i * i} ");
-} */
+}  */
 
 
 
@@ -49,11 +49,11 @@ for (int i = 1; i <= n; i++)
 Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 
 N-мерном пространстве. Сначала задается N с клавиатуры, потом задаются координаты точек. */
 
-Console.WriteLine("Введите число в N-мерном измерении");
+/* Console.WriteLine("Введите число в N-мерном измерении");
 int n = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[n];
 Console.WriteLine(array);
 for (int i = 0; i < array.Length; i++);
 {
     array ()
-}
+} */
