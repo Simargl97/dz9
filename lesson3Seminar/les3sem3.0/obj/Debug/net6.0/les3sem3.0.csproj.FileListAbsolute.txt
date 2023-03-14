@@ -1,0 +1,15 @@
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\bin\Debug\net6.0\les3sem3.0.exe
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\bin\Debug\net6.0\les3sem3.0.deps.json
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\bin\Debug\net6.0\les3sem3.0.runtimeconfig.json
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\bin\Debug\net6.0\les3sem3.0.dll
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\bin\Debug\net6.0\les3sem3.0.pdb
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\obj\Debug\net6.0\les3sem3.0.csproj.AssemblyReference.cache
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\obj\Debug\net6.0\les3sem3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\obj\Debug\net6.0\les3sem3.0.AssemblyInfoInputs.cache
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\obj\Debug\net6.0\les3sem3.0.AssemblyInfo.cs
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\obj\Debug\net6.0\les3sem3.0.csproj.CoreCompileInputs.cache
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\obj\Debug\net6.0\les3sem3.0.dll
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\obj\Debug\net6.0\refint\les3sem3.0.dll
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\obj\Debug\net6.0\les3sem3.0.pdb
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\obj\Debug\net6.0\les3sem3.0.genruntimeconfig.cache
+C:\Users\RobotComp.ru\Desktop\Stepik\lesson3Seminar\les3sem3.0\obj\Debug\net6.0\ref\les3sem3.0.dll
