@@ -1,0 +1,15 @@
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\obj\Debug\net6.0\dz 3.1.csproj.AssemblyReference.cache
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\obj\Debug\net6.0\dz 3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\obj\Debug\net6.0\dz 3.1.AssemblyInfoInputs.cache
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\obj\Debug\net6.0\dz 3.1.AssemblyInfo.cs
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\obj\Debug\net6.0\dz 3.1.csproj.CoreCompileInputs.cache
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\bin\Debug\net6.0\dz 3.1.exe
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\bin\Debug\net6.0\dz 3.1.deps.json
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\bin\Debug\net6.0\dz 3.1.runtimeconfig.json
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\bin\Debug\net6.0\dz 3.1.dll
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\bin\Debug\net6.0\dz 3.1.pdb
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\obj\Debug\net6.0\dz 3.1.dll
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\obj\Debug\net6.0\refint\dz 3.1.dll
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\obj\Debug\net6.0\dz 3.1.pdb
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\obj\Debug\net6.0\dz 3.1.genruntimeconfig.cache
+C:\Users\RobotComp.ru\Desktop\Stepik\dz3\dz 3.1\obj\Debug\net6.0\ref\dz 3.1.dll
