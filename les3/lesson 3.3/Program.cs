@@ -23,24 +23,39 @@ for (int i = 2; i <= 10; i++)
     Console.WriteLine();
 } */
 
-string text =  "- Я думаю"
-            + "Не думаю"
-            + "Nooooooo"
-            + "Yessssss"
+int[] arr = { 1, 5, 4, 6, 3, 5, 2, 3 };
 
-
-string Replace(string text, char oldValue, char newValue)
+void PrintArray(int[] array)
 {
-    string result = String.Empty;
+    int count = array.Length;
 
-    int length = text.length;
-    for (int i = 0; i < length; i++)
+    for (int i = 0; i < count; i++)
     {
-        if(text[i] == oldValue) result = result + $"{newValue}";
-        else result = result + $"{str[i]}";
+        Console.Write($"{ array[ i]}");
     }
-
-    return result;
+    Console.WriteLine();
 }
-string newText = Replace(text, ' ', '|');
-Console.WriteLine(newText);
+
+void SelectionSort(int[] array)
+{
+    for (int i = 0; i < array.Length - 1; i++)
+    {
+        int minPosition = i;
+        for (int j = i + 1; j < array.Length; j++)
+        {
+            if (array[j] < array[minPosition])
+            {
+                minPosition = j;
+            }
+        }
+
+        int temporary = array[i];
+        array[i] = array[minPosition];
+        array[minPosition] = temporary;
+    }
+}
+
+PrintArray( arr);
+SelectionSort( arr);
+
+PrintArray( arr);
