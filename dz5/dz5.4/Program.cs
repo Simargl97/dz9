@@ -9,30 +9,15 @@ FillArrayRandomNumbers(numbers);
 Console.WriteLine("Случайный массив: ");
 PrintArray(numbers);
 
+int max = numbers.Max();
+int indexMax = Array.IndexOf(numbers, max);
 int min = numbers.Min();
 int indexMin = Array.IndexOf(numbers, min);
 
-int max = numbers.Max();
-int indexMax = Array.IndexOf(numbers, max);
-int result = 0;
+int arraySum = 0;
 
-    for (int i = 0; i < numbers.Length; i++)
-    {
-        if (numbers[i] > max)
-        {
-            max = numbers[i];
-        }
-        if (numbers[i] < min)
-        {
-            min = numbers[i];
-        }
-
-
-    }
-
-
-Console.WriteLine($"всего {numbers.Length} чисел. Максимальное значение, и его индекс = {max} {indexMax}, минимальное значение, и его индекс = {min} {indexMin}");
-Console.WriteLine($"Среднее арифметическое всех элементов = {result}");
+for (int i = 0; i < numbers.Length; i++)
+    arraySum += numbers[i];
 
 void FillArrayRandomNumbers(int[] numbers)
 {
@@ -51,3 +36,5 @@ void PrintArray(int[] numbers)
     Console.Write("");
     Console.WriteLine();
 }
+
+
