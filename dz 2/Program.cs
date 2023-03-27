@@ -1,4 +1,4 @@
-﻿int Prompt (string message);
+﻿/* int Prompt (string message);
 {
     Console.Write(message);
     string value = Console.ReadLine();
@@ -37,4 +37,4 @@ if (ValidateWeekDay(weekDay))
     {
         Console.WriteLine("Работа");
     }
-}
+} */
