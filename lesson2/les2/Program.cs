@@ -1,4 +1,4 @@
-﻿void FillArray(int[] collection)
+﻿/* void FillArray(int[] collection)
 {
     int length = collection.Length;
     int index = 0;
@@ -49,5 +49,4 @@ PrintArray(array);
 Console.WriteLine();
 
 int pos = IndexOf(array, 444);
-Console.WriteLine(pos);
-
+Console.WriteLine(pos); */
