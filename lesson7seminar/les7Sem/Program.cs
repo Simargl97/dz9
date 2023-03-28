@@ -7,7 +7,7 @@
 1 2 3 4
 5 7 9 10  */
 
- void SelectionSort(int[] array)                    //метод упорядочивания массива
+/*  void SelectionSort(int[] array)                    //метод упорядочивания массива
 {
     for (int i = 0; i < array.Length - 1; i++)
     {
@@ -21,7 +21,7 @@
         array[i] = array[minPosition];
         array[minPosition] = temporary;
     }
-} 
+}  */
 //int[] arr = new int[9];
 
 /* Задача 51: Задайте двумерный массив. Найдите сумму элементов, 
