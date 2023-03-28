@@ -8,7 +8,7 @@ int[] numbers = new int[arraySize];
 FillArrayRandomNumbers(numbers);
 Console.WriteLine("Случайный массив: ");
 PrintArray(numbers);
-
+                      
 int max = numbers.Max();
 int indexMax = Array.IndexOf(numbers, max);
 int min = numbers.Min();
