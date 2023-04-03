@@ -12,5 +12,5 @@ lesson5Seminar
 bin
 obj
 .csproj
-
+.lesson2
 .gitignore
