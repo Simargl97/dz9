@@ -1,5 +1,0 @@
-C:\Users\RobotComp.ru\Desktop\Stepik\dz 2\obj\Debug\net6.0\dz 2.csproj.AssemblyReference.cache
-C:\Users\RobotComp.ru\Desktop\Stepik\dz 2\obj\Debug\net6.0\dz 2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\RobotComp.ru\Desktop\Stepik\dz 2\obj\Debug\net6.0\dz 2.AssemblyInfoInputs.cache
-C:\Users\RobotComp.ru\Desktop\Stepik\dz 2\obj\Debug\net6.0\dz 2.AssemblyInfo.cs
-C:\Users\RobotComp.ru\Desktop\Stepik\dz 2\obj\Debug\net6.0\dz 2.csproj.CoreCompileInputs.cache
